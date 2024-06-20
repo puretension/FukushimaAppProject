@@ -7,7 +7,7 @@
 <img width="70%" src = "https://github.com/puretension/FukushimaAppProject/assets/106448279/26760537-3a63-4089-90c1-ef045f334263">
 <img width="70%" src = "https://github.com/puretension/FukushimaAppProject/assets/106448279/21ecf1de-18ce-4216-b75e-87f63e77cdd4">
 
-## 구현 사항
+## 구현 부분
 - 에셋 선정 (상점 거리, 판매 특산물, 캐릭터 등)
 - 에셋을 맵에 불러와 배치
 - Unity 내에서 3D 모델로 구현
